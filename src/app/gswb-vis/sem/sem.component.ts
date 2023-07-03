@@ -1,4 +1,4 @@
-import {Component, HostListener, ViewChild, ElementRef, AfterViewInit} from '@angular/core';
+import {Component, ViewChild, ElementRef} from '@angular/core';
 
 @Component({
   selector: 'app-sem',
